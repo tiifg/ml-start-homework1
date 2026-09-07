@@ -5,7 +5,7 @@
 Датасет выбран, потому что он достаточно большой (около 145 тыс. строк), содержит пропуски, разнородные признаки.
 
 ## Ссылка на данные
-[Kaggle – Rain in Australia]([https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattlepackage](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?resource=download))
+[Kaggle – Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?resource=download)
 
 ## Гипотезы (сформулированы до экспериментов)
 1. Логистическая регрессия с L2-регуляризацией (подбор C) покажет ROC‑AUC выше, чем без регуляризации (C=1).
